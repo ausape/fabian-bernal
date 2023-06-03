@@ -24,7 +24,7 @@ params:
   socials:
     # todo: change these links.
     - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
+      url: 'mailto:stagoros19@gmail.com'
       landing: true
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.com/stagoros.p'

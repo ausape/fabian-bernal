@@ -24,14 +24,14 @@ params:
   socials:
     # todo: change these links.
     - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
+      url: 'mailto:stagoros19@gmail.com'
       landing: true
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.com/stagoros.p'
   homepage: "/about" # homepage link, mostly same with menu.main[0]
   specialPages:
     - about
-  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: true # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
   disableRadius: true
