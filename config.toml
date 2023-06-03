@@ -28,10 +28,10 @@ params:
       landing: true
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.com/stagoros.p'
-  homepage: "/about" # homepage link, mostly same with menu.main[0]
+  homepage: "/work" # homepage link, mostly same with menu.main[0]
   specialPages:
     - about
-  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: true # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
   disableRadius: true
@@ -55,10 +55,10 @@ menu:
     - name: about
       url: /about/
       weight: 1
-    - name: work
+    - name: my work
       url: /work
       weight: 2
-    - name: contact
+    - name: contact me
       url: /contact
       weight: 3
       
